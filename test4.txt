@@ -1,0 +1,20 @@
+################################################################
+# abuse.ch URLhaus Database Dump (CSV - online URLs only)      #
+# Last updated: 2022-12-27 15:50:15 (UTC)                      #
+#                                                              #
+# Terms Of Use: https://urlhaus.abuse.ch/api/                  #
+# For questions please contact urlhaus [at] abuse.ch           #
+################################################################
+#
+# id,dateadded,url,url_status,threat,tags,urlhaus_link,reporter
+"2488335","2022-12-27 15:50:15","http://117.215.216.57:57365/Mozi.m","online","malware_download","elf,Mozi","https://urlhaus.abuse.ch/url/2488335/","lrz_urlhaus"
+"2488334","2022-12-27 15:50:11","http://125.43.47.225:48813/Mozi.m","online","malware_download","elf,Mozi","https://urlhaus.abuse.ch/url/2488334/","lrz_urlhaus"
+"2488333","2022-12-27 15:50:06","http://117.196.31.218:39759/Mozi.m","online","malware_download","elf,Mozi","https://urlhaus.abuse.ch/url/2488333/","lrz_urlhaus"
+"2488331","2022-12-27 15:47:10","http://177.12.5.250:40105/i","online","malware_download","32-bit,elf,mips,Mozi","https://urlhaus.abuse.ch/url/2488331/","geenensp"
+"2488330","2022-12-27 15:44:11","http://59.94.202.249:50320/bin.sh","online","malware_download","32-bit,elf,mips,Mozi","https://urlhaus.abuse.ch/url/2488330/","geenensp"
+"2488328","2022-12-27 15:38:04","http://42.239.224.215:52924/i","online","malware_download","32-bit,elf,mips,Mozi","https://urlhaus.abuse.ch/url/2488328/","geenensp"
+"2488327","2022-12-27 15:36:05","http://222.137.183.211:48942/Mozi.m","online","malware_download","elf,mirai,Mozi","https://urlhaus.abuse.ch/url/2488327/","lrz_urlhaus"
+"2488326","2022-12-27 15:35:16","http://117.208.239.226:48037/Mozi.m","online","malware_download","elf,mirai,Mozi","https://urlhaus.abuse.ch/url/2488326/","lrz_urlhaus"
+"2488325","2022-12-27 15:35:12","http://182.123.247.179:35159/Mozi.m","online","malware_download","elf,Mozi","https://urlhaus.abuse.ch/url/2488325/","lrz_urlhaus"
+"2488323","2022-12-27 15:35:07","http://182.126.67.229:43938/Mozi.m","online","malware_download","elf,Mozi","https://urlhaus.abuse.ch/url/2488323/","lrz_urlhaus"
+15:35:07","http://self.events.data.microsoft.com","online","malware_download","elf,Mozi","https://urlhaus.abuse.ch/url/2488323/","lrz_urlhaus"
