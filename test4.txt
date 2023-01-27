@@ -17,4 +17,5 @@
 "2488326","2022-12-27 15:35:16","http://117.208.239.226:48037/Mozi.m","online","malware_download","elf,mirai,Mozi","https://urlhaus.abuse.ch/url/2488326/","lrz_urlhaus"
 "2488325","2022-12-27 15:35:12","http://182.123.247.179:35159/Mozi.m","online","malware_download","elf,Mozi","https://urlhaus.abuse.ch/url/2488325/","lrz_urlhaus"
 "2488323","2022-12-27 15:35:07","http://182.126.67.229:43938/Mozi.m","online","malware_download","elf,Mozi","https://urlhaus.abuse.ch/url/2488323/","lrz_urlhaus"
-15:35:07","http://self.events.data.microsoft.com/","online","malware_download","elf,Mozi","https://urlhaus.abuse.ch/url/2488323/","lrz_urlhaus"
+"2488322","2022-12-27 15:35:07","http://indrani-therapy.com/rulesupdate/QBOT_AZD.ZIP","online","malware_download","elf,Mozi","https://urlhaus.abuse.ch/url/2488323/","lrz_urlhaus"
+
